@@ -14,7 +14,6 @@ Approach:
          We find that this is a case of classification
       </li>
    </ol>
-  iii) 
 
 So here we can use Logistic Regression or Random Forest Tree. We will be using both for comparision
 
