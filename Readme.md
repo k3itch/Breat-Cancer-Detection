@@ -1,6 +1,9 @@
 Approach:
 
-1) Import the Dataset
+
+<ol type="1"> 
+   <li>
+      Import the Dataset
    <ol type="i">
       <li>
          Take a look at the dataset
@@ -14,7 +17,8 @@ Approach:
          We find that this is a case of classification
       </li>
    </ol>
-
+   </li>
+</ol>
 So here we can use Logistic Regression or Random Forest Tree. We will be using both for comparision
 
 2) Then Since the categorization is done alphabetically not numericallys so label encoder is used
