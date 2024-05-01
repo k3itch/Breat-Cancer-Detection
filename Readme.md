@@ -33,8 +33,8 @@ Approach:
    </li>
 
    <li> At this phase we split the data for training and testing purposes </li>
-   <p>for training we use 75% of the data</p>
-   <p>for testing we use 25% of the data</p>
+   for training we use 75% of the data <br> 
+   for testing we use 25% of the data
 
    <li>
       Predefined models will be used for easier calculations and better results
