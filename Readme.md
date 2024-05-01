@@ -1,7 +1,7 @@
 Approach:
 
 1) Import the Dataset
-    i) Take a look at the dataset
+   <ol type="i">Take a look at the dataset</ol>
    ii) Find the input and the output variables
   iii) We find that this is a case of classification
 
