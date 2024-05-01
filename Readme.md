@@ -8,11 +8,9 @@ Approach:
       <li>
          Take a look at the dataset
       </li>
-
       <li>
          Find the input and the output variables
       </li>
-
       <li>
          We find that this is a case of classification
       </li>
