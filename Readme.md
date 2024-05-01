@@ -43,10 +43,8 @@ Approach:
          <li>Random Forest </li>
       </ol>
    </li>
+
+   <li>Models are run to find the accuracy</li>
+   <li>Performance is calculated using Confusion Matrix and Testing Accuracy</li>
 </ol>
     
-   
-
-6) Models are run to find the accuracy
-
-7) Performance is calculated using Confusion Matrix and Testing Accuracy
