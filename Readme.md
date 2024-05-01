@@ -1,9 +1,20 @@
 Approach:
 
 1) Import the Dataset
-   <ol type="i">Take a look at the dataset</ol>
-   ii) Find the input and the output variables
-  iii) We find that this is a case of classification
+   <ol type="i">
+      <li>
+         Take a look at the dataset
+      </li>
+
+      <li>
+         Find the input and the output variables
+      </li>
+
+      <li>
+         We find that this is a case of classification
+      </li>
+   </ol>
+  iii) 
 
 So here we can use Logistic Regression or Random Forest Tree. We will be using both for comparision
 
